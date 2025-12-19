@@ -89,4 +89,5 @@ plt.title('Clusters of Students (StudyTime vs GoOut)')
 plt.xlabel('Study Time (Scaled)')
 plt.ylabel('Go Out (Scaled)')
 plt.legend()
+
 plt.show()
